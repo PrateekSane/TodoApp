@@ -1,0 +1,13 @@
+.ItemList {
+  font-size: 40px;
+  float: left;
+  margin-left: 20px;
+}
+
+.AddTextButton {
+  size: 100px;
+}
+.CheckboxStyle {
+  width: 30px;
+  height: 30px;
+}
